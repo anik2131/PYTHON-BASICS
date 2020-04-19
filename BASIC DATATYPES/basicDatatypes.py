@@ -6,6 +6,8 @@ stringA="Hello World"
 longA=987263782163498147891274198
 shortA=12
 listA=[1,2,3,"a","b","c","Hello","World"]
+trueA=True
+falseA=False
 print(intA)
 print(floatA)
 print(doubleA)
@@ -14,3 +16,5 @@ print(stringA)
 print(longA)
 print(shortA)
 print(listA)
+print(trueA)
+print(falseA)
