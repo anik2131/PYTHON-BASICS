@@ -12,4 +12,4 @@ In this Repository , you will learn the basic code / syntax of Python-Programmin
 7. LOOPS
 8. CONDITIONAL STATEMENTS
 9. TRY-EXCEPT BLOCK
-10. LISTS
+ 10. LISTS
