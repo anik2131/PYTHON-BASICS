@@ -38,6 +38,8 @@ print(a)
 a[5]=100   # replace the value at index 5 with value "100"
 print(a)
 
+print(a+l) # add the lists "a" and "l" and insert them into a new list
+
 # --------OUTPUT--------
 #[0, 1, 2, 3, 4]
 #0
@@ -55,3 +57,4 @@ print(a)
 #[9, 8, 7, 5, 3, 1, 0]
 #[10, 2, 3, 4, 5, 10, 2, 3, 4, 5, 10]
 #[10, 2, 3, 4, 5, 100, 2, 3, 4, 5,10]
+#[10, 2, 3, 4, 5, 100, 2, 3, 4, 5, 10, 9, 8, 7, 5, 3, 1, 0]
